@@ -5,6 +5,7 @@
 class Monster
 {
 public:
+	Monster();
 	Behavior MonsterBehavior();
 };
 

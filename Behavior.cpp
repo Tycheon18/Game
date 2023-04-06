@@ -10,3 +10,8 @@ void Behavior::Attack()
 {
 
 };
+
+Behavior::Behavior()
+{
+
+};
