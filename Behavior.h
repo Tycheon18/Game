@@ -8,3 +8,4 @@ public:
 	void Move();
 	void Attack();
 };
+
